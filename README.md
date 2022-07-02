@@ -11,6 +11,7 @@ You need to daetermine the outcome of the harvest season, i.e. whether the crop 
 
 
 Data Description
+![Data_Descp_File](https://user-images.githubusercontent.com/84449238/176995102-4f83ad9f-7400-43ef-8a3c-f0dfb8469ff3.JPG)
 
 sample_submission.csv
 
