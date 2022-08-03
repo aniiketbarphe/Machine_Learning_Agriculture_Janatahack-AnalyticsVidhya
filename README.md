@@ -21,3 +21,10 @@ Crop_Damage: Predicted Crop damage category for the test set
 
 Evaluation Metric
 The evaluation metric for this hackathon is Accuracy Score.
+
+# Summary
+Best Submission Score:
+
+1) Public Leaderboard :- 0.834461917286922
+
+2) Private Leaderboard :- 0.834511715450882
