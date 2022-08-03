@@ -31,3 +31,5 @@ Best Submission Score:
 
 ![Score_Image](https://user-images.githubusercontent.com/84449238/182688650-9de9b683-38be-4e45-8390-3780f367171c.JPG)
 
+Competition Link: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/
+
