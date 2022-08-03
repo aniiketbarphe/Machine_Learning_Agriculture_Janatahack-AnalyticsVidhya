@@ -28,3 +28,6 @@ Best Submission Score:
 1) Public Leaderboard :- 0.834461917286922
 
 2) Private Leaderboard :- 0.834511715450882
+
+![Score_Image](https://user-images.githubusercontent.com/84449238/182688650-9de9b683-38be-4e45-8390-3780f367171c.JPG)
+
